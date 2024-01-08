@@ -5,6 +5,7 @@ This project was made in the style of an online book shopping site using the JSO
 Using Javascript, the books were categorized, details such as sending the products to the basket and the total cost were coded.
 
 Used technologies:
+
 -HTML
 
 -CSS
